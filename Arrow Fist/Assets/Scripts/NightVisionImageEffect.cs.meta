@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b4277a873936d44a8fed86fa9f14e83
+timeCreated: 1484347792
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - nightVisionShader: {instanceID: 0}
+  - vignetteTexture: {fileID: 2800000, guid: 31d674a01a14f434da99d0ad14329a0f, type: 3}
+  - scanLineTexture: {fileID: 2800000, guid: a2a7af1db55f28d4baf7797d9e527b6e, type: 3}
+  - nightVisionNoise: {fileID: 2800000, guid: f181f75b10e7fad4ca59287b6d65472c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
